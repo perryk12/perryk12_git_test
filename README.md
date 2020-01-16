@@ -6,3 +6,5 @@ First Year
 Midland, MI  
 Background = Highschool: 1 semester Visual Basic, 1 semester C++, 2 semesters Java  
              College: CSE 232 C++, CMSE 201 Python
+
+ropetaer@msu.edu
