@@ -1,2 +1,8 @@
 # perryk12_git_test
-CMSE 202 git practice
+Katherine Perry
+perryk12@msu.edu
+major = Computer Science
+First Year
+Midland, MI
+Background = Highschool: 1 semester Visual Basic, 1 semester C++, 2 semesters Java
+             College: CSE 232 C++, CMSE 201 Python
